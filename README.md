@@ -1,7 +1,6 @@
-## LeetCode23.github.io
-
-# Apollo Rumble - Project submission for NASA SpaceApps Challenge 2023
-
+# Apollo Rumble
+### NASA International Space Apps Challenge 2023
+#### Make a Moonquake Map 2.0!
 
 ![image info](moonPhases.jpg)
 
