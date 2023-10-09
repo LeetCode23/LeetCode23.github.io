@@ -9,9 +9,13 @@
 
 ---
 
-link to project:
-link to slide show demo:
-link to video demo:
+Link to project:
+
+Link to our slide show:
+
+Link to video demo:
+
+Link to code repository:
 
 Our project is an interactive map of seismic sensors and events on the surface of the moon. We used the C# language and Unity game engine to create a 3D model. 
 Wrapping a height map provided by NASA around a sphere, we were able to reproduce an estimate of the texture and visual of the lunar surface. 
