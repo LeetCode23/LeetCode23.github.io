@@ -1,9 +1,14 @@
-### LeetCode23.github.io
+## LeetCode23.github.io
 
 # Apollo Rumble - Project submission for NASA SpaceApps Challenge 2023
 
+
+![image info](moonPhases.jpg)
+
 ---
->The Beyond, Up Close
+<p align="right">The Beyond, Up Close</p>
+
+---
 
 link to project:
 link to slide show demo:
